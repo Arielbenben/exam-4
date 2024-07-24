@@ -164,7 +164,7 @@ namespace WriteHebrewDate.Service
             XElement day = new("Day", date.DayInWeek);
             XElement dayInMonth = new("DayMonth", date.DayInMonth);
             XElement month = new("Month", date.Month);
-            XElement year = new("Year", date.DayInWeek);
+            XElement year = new("Year", date.Year);
             XElement result = new("Result", AddAllConvertTogether(date));
 
             XElement? Queries = doc.Descendants("Queries").FirstOrDefault();
