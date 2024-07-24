@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>5</DayMonth>
+    <Month>אדר</Month>
+    <Year>רביעי</Year>
+    <Result>ברביעי בשבת  חמישה ימים לחודש אדר  שנת חמשת אלפים ושבע מאות ושמנים ושמונה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>שבט</Month>
+    <Year>רביעי</Year>
+    <Result>ברביעי בשבת  יום שלושים  לחודש שבט שהוא ראש חודש אדר  שנת חמשת אלפים ושבע מאות ושמנים ושבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>שבט</Month>
+    <Year>רביעי</Year>
+    <Result>ברביעי בשבת  שבעה ימים לחודש שבט  שנת חמשת אלפים ושבע מאות ושמנים ושמונה לבריאת העולם</Result>
+  </Query>
+</Queries>

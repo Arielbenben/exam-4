@@ -1,0 +1,16 @@
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\bin\Debug\net8.0-windows\WriteHebrewDate.exe
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\bin\Debug\net8.0-windows\WriteHebrewDate.deps.json
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\bin\Debug\net8.0-windows\WriteHebrewDate.runtimeconfig.json
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\bin\Debug\net8.0-windows\WriteHebrewDate.dll
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\bin\Debug\net8.0-windows\WriteHebrewDate.pdb
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.Form1.resources
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.csproj.GenerateResource.cache
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.AssemblyInfoInputs.cache
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.AssemblyInfo.cs
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.csproj.CoreCompileInputs.cache
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.dll
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\refint\WriteHebrewDate.dll
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.pdb
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\WriteHebrewDate.genruntimeconfig.cache
+C:\Users\relbh\source\repos\WriteHebrewDate\WriteHebrewDate\obj\Debug\net8.0-windows\ref\WriteHebrewDate.dll
